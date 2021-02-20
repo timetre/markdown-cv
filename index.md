@@ -68,14 +68,11 @@ __Blablacar__, Software engineer monetization, Paris
 
 Stack
 - Java 11
-- Gradle, Spring, Spring boot, MyBatis
-- Junit Jupiter, Cucumber, Mockito
-- Kafka, rabbitmq
-- MariaDB, BigQuery
-- Docker, Kubernetes, GCP
+- Gradle, Spring, Spring boot, MyBatis, Junit Jupiter, Cucumber, Mockito
+- Kafka, Rabbitmq, Docker, Kubernetes, GCP
+- MariaDB, BigQuery, Redis
 - Git, Github, Jenkins
 - Prometheus, Grafana, Kibana
-
 
 `Jan. 2014 - Sept. 2018`
 __Meetic__, Java Developer payment, Paris
@@ -92,12 +89,10 @@ __Meetic__, Java Developer payment, Paris
 
 Stack
 - Java 9
-- Guice, Maven, Hibernate, JPA, MyBatis, Tomcat
-- JUnit, TestNG, Mockito, Cucumber, NightWatch
+- Guice, Maven, Hibernate, JPA, MyBatis, Tomcat, JUnit, TestNG, Mockito, Cucumber
 - Docker, Puppet, Kubernetes, Ansible
 - Oracle 10g, 11g, MySQL, SQL PL/SQL
 - Git, Gitflow, Gitlab, Gitlab CI, Jenkins, SonarQube, Artifactory, Jira, Confluence
-- Linux, centos, fedora
 - Highdeal, SAP Convergent Charging
 
 `2011 - 2021`
@@ -108,7 +103,7 @@ __Freelancer__
 - Management of a dedicated server (Nginx, Tomcat, Gitlab…)
 
 Stack
-- Symfony 2 / 3 / 4 / 5
+- Symfony 2 -> 5
 - OpenCart, PrestaShop
 - Wordpress, CMSMadeSimple
 
@@ -158,14 +153,13 @@ __Lycée Louis Lumière__, Baccalauréat S, Luxeuil les Bains
 ## Skills
 
 ### Languages
-__JAVA__ – Maven, Gradle, Spring, Spring-boot, Hibernate, JPA, Guice, Tomcat
+__JAVA__, PHP, Kotlin, Python & Go
 
-__WEB__ – SOA REST/SOAP, PHP, Symfony2, HTML, CSS, JavaScript, jQuery, XML, JSON
-
-__TESTS__ - JUnit, TestNG, Mockito, Cucumber, NightWatch
+### OS
+- Linux, centos, fedora, debian, macOS, Windows
 
 ### DBMS
-__SQL__, PL/SQL - Oracle 10g, 11, 11g, MySQL, MariaDB
+__SQL__, PL/SQL - Oracle 10g, 11, 11g, MySQL, MariaDB, pgSQL
 
 ### Billing
 SAP Convergent Charging, Highdeal
@@ -190,8 +184,7 @@ __German__ beginner
 
 ### Music 
 
-- Electronic music production with Ableton live 10
-- Djing on Traktor
+- Electronic music production with Ableton live 10 & djing on Traktor
 - Electronic music festivals lover 
 
 ### Sport
@@ -201,20 +194,16 @@ __German__ beginner
 
 ### Cooking
 
-- Baker
+- Baker & cooking passionate
 - Chocolat maker for Easter & Christmas. Don't hesitate to order
-- Cooking passionate
 
 ## Licences & certifications
 
 `2019`
-PSC1 recycling
+PSC1
 
 `2017`
 Sauveteur Secouriste du Travail (SST)
-
-`2016` 
-PSC1
 
 `2007`
 Drive & motorcycle licences
