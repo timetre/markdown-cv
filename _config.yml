@@ -1,2 +1,3 @@
 markdown:   kramdown
 style:  timetre
+theme: jekyll-theme-time-machine
