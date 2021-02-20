@@ -44,7 +44,7 @@ title: Jérémy VINCENT's CV
 
 Software Engineer specialized in payment and billing systems.
 Supportive and enthusiastic team player dedicated to streamlining processes and efficiently resolving project issues.
-Willing to take ownership of core components, especially in payments billing and monetization ecosystems. 
+Willing to take ownership of core components and lead the way, especially in payments billing and monetization ecosystems. 
 
 ## Experiences
 
@@ -64,6 +64,7 @@ __Blablacar__, Software engineer monetization, Paris
     - Lead the project's communication to provide the better visibility possible
     - Communicate to the stakeholders about the ongoing projects
     - Organize demos to be presented at the end of each sprint
+- Recruitment processes participation (screening & technical tests)
 
 Stack
 - Java 11
@@ -104,9 +105,7 @@ __Freelancer__
 
 - Websites and online shops development, Symfony, JavaScript, CSS, Prestashop
 - Meetings with customers and technical specifications definition. Agile methodologies – Iterative development
-
-Ops
-- Management of a dedicated server (Nginx, Tomcat, Gitlab, OwnCloud…)
+- Management of a dedicated server (Nginx, Tomcat, Gitlab…)
 
 Stack
 - Symfony 2 / 3 / 4 / 5
@@ -121,8 +120,7 @@ __ACSEO__, Java Developer, Aix en Provence__
 - End of Study project (6 months). Development of an accounting Java application
 
 Stack
-- Java/J2EE applications development
-- Advanced use of the Liferay portal
+- Java/J2EE applications development, Liferay
 - Databases : Oracle, MySQL, SQL Server
 - Symfony 2, Drupal
 
@@ -176,7 +174,7 @@ SAP Convergent Charging, Highdeal
 Jira, Scrum master, Kanban, Scrum
 
 ### Others
-Git, Gitlab CI, Github, Jenins, Docker, Kubernetes, GCP, Kafka, Kotlin, IntelliJ IDEA, Linux, Confluence, Sonar, Artifactory, SonarQube
+Git, Gitlab CI, Github, Jenkins, Docker, Kubernetes, GCP, Kafka, Kotlin, IntelliJ IDEA, Linux, Confluence, Sonar, Artifactory, SonarQube
 
 ### Languages
 
@@ -198,7 +196,7 @@ __German__ beginner
 
 ### Sport
 
-- Running, cycling, fitness, Handball and many more
+- Running, cycling, fitness, handball and many more
 - I used to be a crossfit trainer @Meetic
 
 ### Cooking
