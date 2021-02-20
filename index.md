@@ -53,7 +53,7 @@ __Blablacar__, Software engineer monetization, Paris
 
 - Enhancing & developing the payment and billing platform of Blablacar
 - Working on the unified observability, SLI/SLO/SLA, in close collaboration with the ops team 
-- Redesigning the entire monetization brick out of the monolyth
+- Redesigning the entire monetization brick out of the monolith
 - Leading the way towards the Russian monetization
 - Bus payment re-integration 
 - As a scrum master: drive most of our agile rituals like retrospectives, sprint plannings, groomings
@@ -120,7 +120,7 @@ Stack
 - Symfony 2, Drupal
 
 `Sept. 2010 - Feb. 2011`
-__WebFullCircle__,Web development internship, Charlote NC, USA
+__WebFullCircle__,Web development internship, Charlotte NC, USA
 
 - Development and management of many websites
 - Meetings with customers. Needs definition and specifications. Stand-up meetings, Kanban board
@@ -142,7 +142,7 @@ First professional IT experience
 ## Education
 
 `2012`
-__UTBM__, Ingénieurie des logiciels et de la connaissance, Belfort
+__UTBM__, Ingénierie des logiciels et de la connaissance, Belfort
 
 `2009`
 __Lycée Louis Pergaud__, BTS informatique de gestion, Besançon
