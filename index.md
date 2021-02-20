@@ -52,19 +52,18 @@ Willing to take ownership of core components, especially in payments billing and
 __Blablacar__, Software engineer monetization, Paris
 
 - Enhancing & developing the payment and billing platform of Blablacar
-- Working on the unified observability, SLI/SLO/SLA, in close collaboration with the SRE team 
+- Working on the unified observability, SLI/SLO/SLA, in close collaboration with the ops team 
 - Redesigning the entire monetization brick out of the monolyth
 - Leading the way towards the Russian monetization
 - Bus payment re-integration 
-- As a scrum master: in charge of the animation of most of our agile rituals like restrospectives, sprint plannings, groomings
+- As a scrum master: drive most of our agile rituals like retrospectives, sprint plannings, groomings
 - Close collaboration with the product team and the managerial stack in order to 
     - Build roadmaps
     - Animate and participate to our project's story mappings
     - Build timelines with demonstrable milestones. Iterate to refine our plans
-    - Manage the jira board and create all the epics to provide the best visibility
-    - Communicate to the stackeholders about the ongoing projects
+    - Lead the project's communication to provide the better visibility possible
+    - Communicate to the stakeholders about the ongoing projects
     - Organize demos to be presented at the end of each sprint
-    - Organize the project's communication, both written and spoken
 
 Stack
 - Java 11
@@ -81,14 +80,14 @@ Stack
 __Meetic__, Java Developer payment, Paris
 
 - Enhancement and maintenance of the rating and billing platform around SAP Convergent Charging
-- Study, managment and implementation of migration project for several millions of paying customers from Highdeal to SAP
+- Study, management and implementation of migration project for several millions of paying customers from Highdeal to SAP
 - Research, design and implementation of scalable applications for payment ecosystem used by thousands of users per day
 - Close collaboration with production teams (system, data-warehouse) and development teams to design and develop robust payment solutions
 - Implementation of a unit testing and integration automation strategy - Continuous integration with Gitlab CI, Jenkins, Puppet, Docker, Kubernetes and Artifactory
 - Interface with business analysts and developers to determine optimal specifications
 - Agile methodologies, stand up meetings, code review, pair programing, iterative development, Kanban board
 - Linux use and administration. Shell scripting. Comfortable with Oracle SQL scripting
-- Technical and functionnal specifications and user manuals in english
+- Technical and functional specifications and user manuals in english
 
 Stack
 - Java 9
@@ -117,7 +116,6 @@ Stack
 `Sept. 2012 - Jan. 2014`
 __ACSEO__, Java Developer, Aix en Provence__
 
-Developer within the web compagny ACSEO
 - Conception and development of various java and Symfony2 applications
 - Project Management, Redmine, people under my responsibility, training
 - End of Study project (6 months). Development of an accounting Java application
