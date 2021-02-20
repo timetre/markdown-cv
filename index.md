@@ -156,7 +156,7 @@ __Lycée Louis Lumière__, Baccalauréat S, Luxeuil les Bains
 __JAVA__, PHP, Kotlin, Python & Go
 
 ### OS
-- Linux, centos, fedora, debian, macOS, Windows
+Linux, centos, fedora, debian, macOS, Windows
 
 ### DBMS
 __SQL__, PL/SQL - Oracle 10g, 11, 11g, MySQL, MariaDB, pgSQL
