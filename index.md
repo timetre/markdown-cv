@@ -12,7 +12,7 @@ title: Jérémy VINCENT's CV
             <p>Payment & Monetization</p>
         </div>
         
-        <div id="webaddress" class="col-4">
+        <div id="webaddress" class="col-3">
             <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="currentColor" class="bi bi-house-door-fill" viewBox="0 0 16 16">
                 <path d="M6.5 14.5v-3.505c0-.245.25-.495.5-.495h2c.25 0 .5.25.5.5v3.5a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5v-7a.5.5 0 0 0-.146-.354L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293L8.354 1.146a.5.5 0 0 0-.708 0l-6 6A.5.5 0 0 0 1.5 7.5v7a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5z"/>
             </svg>
@@ -33,14 +33,16 @@ title: Jérémy VINCENT's CV
             <br/>
             31 years old
         </div>
-        <div class="col-2"></div>
+        <div class="col-2">
+            <img src="https://media-exp1.licdn.com/dms/image/C5603AQGZ6xz9gNOxUA/profile-displayphoto-shrink_800_800/0/1543229207761?e=1619049600&amp;v=beta&amp;t=fQ5AFe3rS4kMnTegyj4HCCE__nwgGdvAOwce1IHNIzM" class="img-thumbnail rounded-circle">
+        </div>
     </div>
 </div>
 
 
 ## About
 
-Software Engineer specialized in payment and billing systems
+Software Engineer specialized in payment and billing systems.
 Supportive and enthusiastic team player dedicated to streamlining processes and efficiently resolving project issues.
 Willing to take ownership of core components, especially in payments billing and monetization ecosystems. 
 
@@ -49,10 +51,20 @@ Willing to take ownership of core components, especially in payments billing and
 `Oct. 2018 - now`
 __Blablacar__, Software engineer monetization, Paris
 
-- Enhancing & developing the payment and billing platform of Blablacar.
+- Enhancing & developing the payment and billing platform of Blablacar
+- Working on the unified observability, SLI/SLO/SLA, in close collaboration with the SRE team 
 - Redesigning the entire monetization brick out of the monolyth
 - Leading the way towards the Russian monetization
-- Scrum master, restrospective, sprint planning, grooming
+- Bus payment re-integration 
+- As a scrum master: in charge of the animation of most of our agile rituals like restrospectives, sprint plannings, groomings
+- Close collaboration with the product team and the managerial stack in order to 
+    - Build roadmaps
+    - Animate and participate to our project's story mappings
+    - Build timelines with demonstrable milestones. Iterate to refine our plans
+    - Manage the jira board and create all the epics to provide the best visibility
+    - Communicate to the stackeholders about the ongoing projects
+    - Organize demos to be presented at the end of each sprint
+    - Organize the project's communication, both written and spoken
 
 Stack
 - Java 11
@@ -80,18 +92,13 @@ __Meetic__, Java Developer payment, Paris
 
 Stack
 - Java 9
-- Guice, Maven, Hibernate, JPA, MyBatis
-- SOA architecture (REST & SOAP)
-- Tomcat 8
+- Guice, Maven, Hibernate, JPA, MyBatis, Tomcat
 - JUnit, TestNG, Mockito, Cucumber, NightWatch
 - Docker, Puppet, Kubernetes, Ansible
 - Oracle 10g, 11g, MySQL, SQL PL/SQL
 - Git, Gitflow, Gitlab, Gitlab CI, Jenkins, SonarQube, Artifactory, Jira, Confluence
 - Linux, centos, fedora
-
-Billing softwares
-- Highdeal
-- SAP Convergent Charging
+- Highdeal, SAP Convergent Charging
 
 `2011 - 2021`
 __Freelancer__
@@ -102,7 +109,7 @@ __Freelancer__
 Ops
 - Management of a dedicated server (Nginx, Tomcat, Gitlab, OwnCloud…)
 
-Frameworks
+Stack
 - Symfony 2 / 3 / 4 / 5
 - OpenCart, PrestaShop
 - Wordpress, CMSMadeSimple
@@ -115,46 +122,23 @@ Developer within the web compagny ACSEO
 - Project Management, Redmine, people under my responsibility, training
 - End of Study project (6 months). Development of an accounting Java application
 
-Java
+Stack
 - Java/J2EE applications development
 - Advanced use of the Liferay portal
-- Portlets development with the following technologies
-- Framework: Spring, Struts, Hibernate
-- Portal: Liferay
 - Databases : Oracle, MySQL, SQL Server
-- JSF, JSP, JSTL, Servlet
-- Tomcat
-
-Web/PHP
-- Symfony2, Drupal
-- HTML, CSS, Javascript, jQuery, Twitter Bootstrap
-
-Mobile Applications
-- Android SDK
-- PhoneGap
-
-Project Managment
-- Use of conception and analysis methodssuch as MERISE, UML
-- Direct contact and meetings with the final client in order to specify all the needs
-- Tests unitaires
-
-Others
-- SVN / GIT
-- Redmine, Agile methodologies
+- Symfony 2, Drupal
 
 `Sept. 2010 - Feb. 2011`
-__WebFullCircle__,Web development internship, Charote NC, USA
+__WebFullCircle__,Web development internship, Charlote NC, USA
 
 - Development and management of many websites
 - Meetings with customers. Needs definition and specifications. Stand-up meetings, Kanban board
-
 
 `Apr. 2009 - Jun. 2009`
 __CHU Besançon__, Web development internship, Besançon
 
 Website development for the use of the HR team
 - Project development in PHP
-- Project documentation
 - Definition of needs
 
 `Feb. 2008 - Apr. 2008`
@@ -179,7 +163,9 @@ __Lycée Louis Lumière__, Baccalauréat S, Luxeuil les Bains
 
 ### Languages
 __JAVA__ – Maven, Gradle, Spring, Spring-boot, Hibernate, JPA, Guice, Tomcat
+
 __WEB__ – SOA REST/SOAP, PHP, Symfony2, HTML, CSS, JavaScript, jQuery, XML, JSON
+
 __TESTS__ - JUnit, TestNG, Mockito, Cucumber, NightWatch
 
 ### DBMS
@@ -204,15 +190,13 @@ __Portugese__ beginner++
 
 __German__ beginner
 
-
-
 ## Miscellaneous
 
 ### Music 
 
 - Electronic music production with Ableton live 10
 - Djing on Traktor
-- Electronic music festivals
+- Electronic music festivals lover 
 
 ### Sport
 
